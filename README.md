@@ -12,7 +12,27 @@ Was wäre ein geeignetes Projekt für diese LP7? Den Fokus auf das Modul 320 leg
 
 01.11.2024
 
-- [ ] Repetition von den Aufgaben vom Montag (Modul 320)
+- [x] Repetition von den Aufgaben vom Montag (Modul 320)
+- [x] Planung für nächste Woche machen
+- [x] Java Script tutorials anschauen
+
+Heute habe ich die oben aufgelisteten Aufträge erledigt. Die JS turtorials haben mir geholfen im M294 die Aufträge vom Mittwoch relativ gut und ohne Probleme zu lösen, bei schwierigkeiten konnte GPT jedoch gut helfen und das Problem lösen.
+Bei der Repetition für das Modul 320 habe ich den Spicker den wir laufend aktualisieren mussten studiert und habe dann meine Schwächen anhand der Analyse versucht zu stärken. Darunter befanden sich z.Bsp. das Umsetzten eines UML-Klassendiagramm in C# Code.
+Zuletzt habe ich dann noch die Planung für den nächsten Freitag gemacht.
+
+
+
+
+
+
+
+
+
+
+
+08.11.2024
+
+- [ ] Einlesen in das Neue Modul vom Montag
 - [ ] Planung für nächste Woche machen
-- [ ] Java Script tutorials anschauen
+- [ ] Vorarbeit für das Modul 294 (anschauen was CRUD ist)
 
