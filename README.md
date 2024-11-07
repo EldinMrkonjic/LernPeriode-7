@@ -10,8 +10,7 @@ Was wäre ein geeignetes Projekt für diese LP7? Den Fokus auf das Modul 320 leg
 
 25.10.2024 Heute habe ich alle Arbeitspakete wie geplant erledigt.
 
-01.11.2024
-
+# Planung 01.11.2024
 - [x] Repetition von den Aufgaben vom Montag (Modul 320)
 - [x] Planung für nächste Woche machen
 - [x] Java Script tutorials anschauen
@@ -31,7 +30,7 @@ Rückblickend betrachte ich meinen Fortschritt als positiv. Es gab Momente, in d
 Was ich auch hervorheben möchte ist, wie vorteilhaft das Distanzlernen (DLS) für mich ist. Die Flexibilität und die Möglichkeit, in meinem eigenen Tempo zu arbeiten, haben mir geholfen, effizienter zu lernen und mich besser auf meine Aufgaben zu fokussieren. Diese Form des Lernens möchte ich in Zukunft noch weiter ausbauen.
 
 
-08.11.2024
+# Planung 08.11.2024
 
 - [ ] Einlesen in das Neue Modul vom Montag
 - [ ] Planung für nächste Woche machen
