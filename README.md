@@ -20,7 +20,7 @@ Bei der Repetition für das Modul 320 habe ich den Spicker den wir laufend aktua
 Zuletzt habe ich dann noch die Planung für den nächsten Freitag gemacht.
 
 
-# Nachweis für meine DSL-Arbeit
+# Nachweis für meine DSL-Arbeit (01.11.2024)
 Heute habe ich erfolgreich die geplanten Aufgaben umgesetzt und dabei wichtiges gelernt. Die Repetition der Aufgaben vom Montag im Modul 320 verlief strukturiert und zielorientiert. Besonders hilfreich war das repetieren des kontinuierlich aktualisierten Spickers, der mir sehr hald, gezielt an meinen Schwächen zu arbeiten. Eine dieser Schwächen war die Umsetzung eines UML-Klassendiagramms in C#-Code. Durch die vertiefte Analyse konnte ich meine Fähigkeiten in diesem Bereich verbessern und mehr Sicherheit gewinnen.
 
 Bei den JavaScript-Tutorials, die ich mir angeschaut habe, konnte ich mein Verständnis vertiefen, was mir bei der Bearbeitung der Aufträge im Modul 294 zugutekam. Die Tutorials lieferten mir nicht nur wichtige Grundlagen, sondern erleichterten auch das effiziente Lösen der Aufgaben. Herausforderungen, die sich mir dabei stellten, konnte ich dank der Unterstützung durch GPT schnell und zielgerichtet bewältigen. Dies zeigte mir, dass ich in der Lage bin, technische Probleme selbstständig zu analysieren und mit geeigneten Hilfsmitteln Lösungen zu finden.
