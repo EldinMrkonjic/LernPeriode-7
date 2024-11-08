@@ -25,9 +25,10 @@ Heute habe ich erfolgreich die geplanten Aufgaben umgesetzt und dabei wichtiges 
 
 Bei den JavaScript-Tutorials, die ich mir angeschaut habe, konnte ich mein Verständnis vertiefen, was mir bei der Bearbeitung der Aufträge im Modul 294 zugutekam. Die Tutorials lieferten mir nicht nur wichtige Grundlagen, sondern erleichterten auch das effiziente Lösen der Aufgaben. Herausforderungen, die sich mir dabei stellten, konnte ich dank der Unterstützung durch GPT schnell und zielgerichtet bewältigen. Dies zeigte mir, dass ich in der Lage bin, technische Probleme selbstständig zu analysieren und mit geeigneten Hilfsmitteln Lösungen zu finden.
 
-Rückblickend betrachte ich meinen Fortschritt als positiv. Es gab Momente, in denen ich auf Schwierigkeiten stieß, insbesondere beim Nachvollziehen komplexerer Aspekte des Codes, aber genau diese Herausforderungen haben mir geholfen, meine Kompetenz zu erweitern.
+Rückblickend betrachte ich meinen Fortschritt als positiv. Es gab Momente, in denen ich auf Schwierigkeiten stiess, insbesondere beim Nachvollziehen komplexerer Aspekte des Codes, aber genau diese Herausforderungen haben mir geholfen, meine Kompetenz zu erweitern.
 
 Was ich auch hervorheben möchte ist, wie vorteilhaft das Distanzlernen (DLS) für mich ist. Die Flexibilität und die Möglichkeit, in meinem eigenen Tempo zu arbeiten, haben mir geholfen, effizienter zu lernen und mich besser auf meine Aufgaben zu fokussieren. Diese Form des Lernens möchte ich in Zukunft noch weiter ausbauen.
+
 
 
 # Planung 08.11.2024
