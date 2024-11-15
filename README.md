@@ -33,7 +33,28 @@ Was ich auch hervorheben möchte ist, wie vorteilhaft das Distanzlernen (DLS) f�
 
 # Planung 08.11.2024
 
-- [ ] Einlesen in das Neue Modul vom Montag
+- [x] Einlesen in das Neue Modul vom Montag
+- [x] Planung für nächste Woche machen
+- [x] Vorarbeit für das Modul 294 (anschauen was CRUD ist)
+
+
+
+# Planung 15.11.2024
+
+- [x] Einlesen in das Neue Modul vom Montag
+- [x] Planung für nächste Woche machen
+- [x] Die Aufträge für das Modul 294 vom Mittwoch nocheinaml lösen
+
+
+
+# Planung 15.11.2024
+
+- [ ] Nacharbeiten für das Modul 450
 - [ ] Planung für nächste Woche machen
-- [ ] Vorarbeit für das Modul 294 (anschauen was CRUD ist)
+- [ ] .......
+
+
+      
+
+
 
