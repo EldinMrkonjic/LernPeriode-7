@@ -47,9 +47,9 @@ Was ich auch hervorheben möchte ist, wie vorteilhaft das Distanzlernen (DLS) f�
 
 
 
-# Planung 15.11.2024
+# Planung 22.11.2024
 
-- [ ] Nacharbeiten für das Modul 450
+- [ ] Entwicklungsumgebung für M294 ready machen
 - [ ] Planung für nächste Woche machen
 - [ ] .......
 
