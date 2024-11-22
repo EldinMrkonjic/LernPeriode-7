@@ -51,7 +51,7 @@ Was ich auch hervorheben möchte ist, wie vorteilhaft das Distanzlernen (DLS) f�
 
 - [ ] Entwicklungsumgebung für M294 ready machen
 - [ ] Planung für nächste Woche machen
-- [ ] .......
+- [ ] Video für Lernnachweis drehen
 
 
       
