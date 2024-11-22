@@ -49,9 +49,18 @@ Was ich auch hervorheben möchte ist, wie vorteilhaft das Distanzlernen (DLS) f�
 
 # Planung 22.11.2024
 
-- [ ] Entwicklungsumgebung für M294 ready machen
-- [ ] Planung für nächste Woche machen
+- [x] Entwicklungsumgebung für M294 ready machen
+- [x] Planung für nächste Woche machen
+- [x] Video für Lernnachweis drehen
+
+
+
+
+Planung 29.11.2024
+
+- [ ] ...
 - [ ] Video für Lernnachweis drehen
+- [ ] Planung für nächste Woche machen
 
 
       
