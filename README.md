@@ -58,12 +58,16 @@ Was ich auch hervorheben möchte ist, wie vorteilhaft das Distanzlernen (DLS) f�
 
 # Planung 29.11.2024
 
-- [ ] ...
-- [ ] Video für Lernnachweis drehen
-- [ ] Planung für nächste Woche machen
+- [x] An der LB 346 weiterarbeiten bzw damit starten
+- [x] Text für Lernnachweis schreiben
+- [x] Planung für nächste Woche machen
 
 
       
 
 
+# Planung 06.12.2024
 
+- [ ] An der LB 294 weiterarbeiten bzw damit starten
+- [ ] Arbeitsplan für nächste Woche
+- [ ] Planung für nächste Woche machen
